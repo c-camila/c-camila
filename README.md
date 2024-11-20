@@ -2,13 +2,11 @@
 
 ## I'm Camila!
 
-:books: I'm student tech enthusiast and web developer!
+:books: Ecommerce Project Developer • Product Owner • Magento • User Experience
 
-:alien: I’m from space.
+:alien: Graduating in Systems Analysis and Development.
 
-:pencil2: I’m currently learning everything.
-
-:outbox_tray: Goals: Create a new project and find a first job in tech.
+:pencil2: I’m currently learning frontend and user experience.
 
 ## About me
 
